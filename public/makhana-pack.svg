@@ -1,0 +1,31 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="48" fill="url(#paint0_linear)" />
+  <rect x="96" y="120" width="448" height="400" rx="32" fill="url(#paint1_linear)" />
+  <rect x="130" y="154" width="380" height="140" rx="24" fill="#F9F4E8" />
+  <rect x="130" y="314" width="380" height="174" rx="24" fill="#F4E3BB" />
+  <circle cx="320" cy="232" r="60" fill="#E5913E" opacity="0.22" />
+  <path d="M320 328C282.102 328 251.2 358.902 251.2 396.8C251.2 434.698 282.102 465.6 320 465.6C357.898 465.6 388.8 434.698 388.8 396.8C388.8 358.902 357.898 328 320 328ZM320 347.2C347.287 347.2 369.6 369.513 369.6 396.8C369.6 424.087 347.287 446.4 320 446.4C292.713 446.4 270.4 424.087 270.4 396.8C270.4 369.513 292.713 347.2 320 347.2ZM320 361.6C296.568 361.6 277.6 380.568 277.6 404C277.6 427.432 296.568 446.4 320 446.4C343.432 446.4 362.4 427.432 362.4 404C362.4 380.568 343.432 361.6 320 361.6Z" fill="#C35C24" />
+  <circle cx="320" cy="404" r="24" fill="#FFFFFF" />
+  <path d="M320 184C328.836 184 336 191.164 336 200C336 208.836 328.836 216 320 216C311.164 216 304 208.836 304 200C304 191.164 311.164 184 320 184Z" fill="#D86A27" />
+  <path d="M246 214C251.523 214 256 218.477 256 224C256 229.523 251.523 234 246 234C240.477 234 236 229.523 236 224C236 218.477 240.477 214 246 214Z" fill="#D86A27" />
+  <path d="M394 214C399.523 214 404 218.477 404 224C404 229.523 399.523 234 394 234C388.477 234 384 229.523 384 224C384 218.477 388.477 214 394 214Z" fill="#D86A27" />
+  <path d="M261.6 417.6C266.238 417.6 270 421.362 270 426C270 430.638 266.238 434.4 261.6 434.4C256.962 434.4 253.2 430.638 253.2 426C253.2 421.362 256.962 417.6 261.6 417.6Z" fill="#EBDCC3" />
+  <path d="M378.4 417.6C383.038 417.6 386.8 421.362 386.8 426C386.8 430.638 383.038 434.4 378.4 434.4C373.762 434.4 370 430.638 370 426C370 421.362 373.762 417.6 378.4 417.6Z" fill="#EBDCC3" />
+  <path d="M320 394C325.523 394 330 398.477 330 404C330 409.523 325.523 414 320 414C314.477 414 310 409.523 310 404C310 398.477 314.477 394 320 394Z" fill="#F5B87E" />
+  <path d="M156 358H484" stroke="#EDC47D" stroke-width="12" stroke-linecap="round" />
+  <path d="M156 386H484" stroke="#EDC47D" stroke-width="10" stroke-linecap="round" opacity="0.64" />
+  <path d="M156 414H484" stroke="#EDC47D" stroke-width="10" stroke-linecap="round" opacity="0.4" />
+  <rect x="192" y="200" width="256" height="32" rx="16" fill="#F3C066" opacity="0.6" />
+  <text x="320" y="220" text-anchor="middle" fill="#3A2200" font-family="Georgia, serif" font-size="28" font-weight="700">Mithila Makhana</text>
+  <text x="320" y="250" text-anchor="middle" fill="#805017" font-family="Georgia, serif" font-size="18">Artisanal Lotus Seeds</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="640" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFAF1"/>
+      <stop offset="1" stop-color="#F2D4A6"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="96" y1="120" x2="544" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE6B0"/>
+      <stop offset="1" stop-color="#D0822A"/>
+    </linearGradient>
+  </defs>
+</svg>
